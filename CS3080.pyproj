@@ -22,6 +22,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="hw1_Osvaldo_Canales.py" />
+    <Compile Include="hw2_Osvaldo_Canales_ex_2.py" />
     <Compile Include="hw2_Osvaldo_Canales_ex_1.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
