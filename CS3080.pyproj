@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>8947a0e5-ffd6-42b0-aa7e-73c8fbb64c3f</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>hw2_Osvaldo_Canales_ex_3.py</StartupFile>
+    <StartupFile>hw2_Osvaldo_Canales_ex_4_1.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -25,6 +25,7 @@
     <Compile Include="hw2_Osvaldo_Canales_ex_2.py" />
     <Compile Include="hw2_Osvaldo_Canales_ex_1.py" />
     <Compile Include="hw2_Osvaldo_Canales_ex_3.py" />
+    <Compile Include="hw2_Osvaldo_Canales_ex_4_1.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
