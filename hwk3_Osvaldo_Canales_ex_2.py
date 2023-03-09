@@ -24,8 +24,8 @@ def count_char(string):
             char_counts[char] += 1
 
         else:
-            # If it isn't, add it to the dictionary with a count of 1
-            char_counts[char] = 1
+            # If it isn't, add it to the dictionary with a count of
+           char_counts[char] = 1
 
     return char_counts
 
