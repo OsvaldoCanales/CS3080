@@ -1,5 +1,5 @@
 '''
-Homework 4, Excercise 2
+Homework 4, Excercise 3
 Osvaldo Canales
 March 7, 2023
 Develop a program with a strong password check
